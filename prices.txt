@@ -1,1 +1,2 @@
 houses prices registered
+5500000 9500000 10500000
